@@ -3,9 +3,10 @@
 		public function add() {
 			return (2+5);
 		}
-		
-				public function Sub() {
+
+		public function Sub() {
 			return (5-2);
+			display("Today is not working day.");
 		}
 	}
 ?>
