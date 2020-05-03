@@ -20,9 +20,13 @@
 		public function nEWbtanchShailTest1() {
 			return (NewBranch Test1);
 		}
-		
+
 		public function nEWbtanchShailTest2() {
 			return (NewBranch Test2);
+		}
+
+		public function Cpropertytest() {
+			return ('Property Detail');
 		}
 	}
 ?>
