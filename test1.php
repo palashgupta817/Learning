@@ -17,10 +17,12 @@
 		public function division() {
 			return (4/2);
 		}
-		public function nEWbtanchShailTest() {
-			return (NewBranch Test);
+		public function nEWbtanchShailTest1() {
+			return (NewBranch Test1);
 		}
-
-
+		
+		public function nEWbtanchShailTest2() {
+			return (NewBranch Test2);
+		}
 	}
 ?>
