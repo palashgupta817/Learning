@@ -8,5 +8,11 @@
 			return (5-2);
 			display("Today is not working day.");
 		}
+
+		public function SubWithNewBranch() {
+			return (5-2);
+			display("Today is not working day.");
+		}
+
 	}
 ?>
