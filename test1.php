@@ -14,5 +14,10 @@
 			display("Today is not working day.");
 		}
 
+		public function division() {
+			return (4/2);
+		}
+
+
 	}
 ?>
