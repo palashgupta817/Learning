@@ -17,6 +17,9 @@
 		public function division() {
 			return (4/2);
 		}
+		public function nEWbtanchShailTest() {
+			return (NewBranch Test);
+		}
 
 
 	}
