@@ -24,5 +24,9 @@
 		public function nEWbtanchShailTest2() {
 			return (NewBranch Test2);
 		}
+		
+		public function nEWbtanchShailTest3() {
+			return (NewBranch Test3);
+		}
 	}
 ?>
