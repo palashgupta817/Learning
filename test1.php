@@ -24,15 +24,16 @@
 		public function nEWbtanchShailTest2() {
 			return (NewBranch Test2);
 		}
-
-		
 		public function nEWbtanchShailTest3() {
 			return (NewBranch Test3);
 
-
 		public function Cpropertytest() {
 			return ('Property Detail');
-
 		}
+
+		public function Cpropertytest434() {
+				return ('Property Detail');
+		}
+
 	}
 ?>
