@@ -41,7 +41,7 @@
 		public function Cpropertytest434() {
 			return ( 'Property Detail' );
 		}
-		
+
 		public function SubWithNewBranch1() {
 			return (5-2);
 			display("Today is not working day.");
