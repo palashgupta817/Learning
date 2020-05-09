@@ -14,5 +14,10 @@
 			display("Today is not working day.");
 		}
 
+		public function SubWithNewBranch1() {
+			return (5-2);
+			display("Today is not working day.");
+		}
+
 	}
 ?>
